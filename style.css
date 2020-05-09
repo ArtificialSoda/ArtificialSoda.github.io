@@ -99,6 +99,8 @@ button:hover{
 
 /* Footer */
 .footer {
+    display: flex;
+    flex-flow: column nowrap;
     background-color: #05386B;
     text-align: center;
 }
